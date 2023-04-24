@@ -1,4 +1,4 @@
-package br.edu.ifsp.scl.pdm
+package br.edu.ifsp.scl.pdm.sendmail
 
 import org.junit.Test
 
